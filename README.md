@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">:mag: Share of Search</h2>
-  <p align="center">Notebook de Avaliação de Share of Search no Google</p>
+  <p align="center">Notebooks de Avaliação de Share of Search no Google</p>
 </p>
 
 <sub>Diga "Oi" <br> 
@@ -13,6 +13,9 @@
 Motivado pelo artigo [**The Wrong and the Short of it**, de _Tom Roach_](https://thetomroach.com/2020/11/15/the-wrong-and-the-short-of-it/), criei este repositório para explorar o conceito de Share of Search no Google.<br>
 
 Neste repositório estão sendo utilizadas as bibliotecas _pytrends_ para buscar as pontuações de pesquisa no Google por marca/termo e _matplotlib_ para criar os gráficos.<br>
+
+## :notebook: Notebooks
+[ShareofSearch](ShareofSearch.ipynb)
 
 ## :punch: Colabore
 - Abra <i>Pull Requests</i> com atualizações

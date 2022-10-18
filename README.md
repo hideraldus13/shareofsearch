@@ -15,7 +15,7 @@ Motivado pelo artigo [**The Wrong and the Short of it**, de _Tom Roach_](https:/
 Neste repositório estão sendo utilizadas as bibliotecas _pytrends_ para buscar as pontuações de pesquisa no Google por marca/termo e _matplotlib_ para criar os gráficos.<br>
 
 ## :notebook: Notebooks
-[ShareofSearch](ShareofSearch.ipynb)
+[ShareofSearch](/ShareOfSearch.ipynb)
 
 ## :punch: Colabore
 - Abra <i>Pull Requests</i> com atualizações
